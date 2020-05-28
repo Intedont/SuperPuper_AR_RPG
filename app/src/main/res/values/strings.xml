@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SuperPuper_AR_RPG</string>
+    <string name="form_email">e-mail</string>
+    <string name="form_password">password</string>
+    <string name="form_password_confirm">confirm password</string>
+    <string name="form_login">log in</string>
+    <string name="form_registry">registration</string>
+    <string name="form_register">register</string>
+    <string name="form_error_passwords">passwords don\'t match</string>
+    <string name="back">back</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dialog_GPSEnableMessage">Чтобы видеть других игроков необходимо включить геолокацию</string>
+    <string name="dialog_GPSEnableAgree">Включить</string>
+    <string name="dialog_GPSEnableRefuse">Остаться offline</string>
+    <string name="login_fail">Неверный логин или пароль</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_map">Карта</string>
+    <string name="authWrongPassword">Неверный логин или пароль</string>
+    <string name="authFail">Не удалось установить связь с сервером</string>
+    <string name="btn_pickQuest">Приступить</string>
+    <string name="btn_rejectQuest">Отказаться</string>
+    <string name="toast_closeToQuest">Вы находитесь слишком далеко!</string>
+</resources>
